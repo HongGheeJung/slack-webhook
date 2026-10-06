@@ -1,4 +1,3 @@
-#!/mnt/c/Users/rlwjd/OneDrive/Desktop/repo/slack-webhook/venv/bin/python
 import json
 import os
 import re
